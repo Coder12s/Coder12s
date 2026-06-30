@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently students as B.E Computer science and Engineering<br>👯 I’m looking for friends in cybersecurity <br>🤝 I’m looking for help with ethical hacking <br>🌱 I’m currently learning Red-team penetrations <br>💬 Ask me about<br>⚡ currently in India 
-
+🔭 I’m currently students as B.E Computer science and Engineering<br> I’m looking for friends in cybersecurity <br>🤝 I’m looking for help with ethical hacking <br>🌱 I’m currently learning Red-team penetrations <br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/foxyy22.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slient._.steps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishanth-s) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nishanth) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/foxyyy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nishanth01103097) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@foxgaming ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hackit2978) 
